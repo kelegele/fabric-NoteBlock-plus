@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "nbp:block/fabric_block" }
+  }
+}

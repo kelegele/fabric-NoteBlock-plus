@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF",
+    "FF"
+  ],
+  "key": {
+    "F": {
+      "item": "nbp:fabric_item"
+    }
+  },
+  "result": {
+    "item": "nbp:fabric_block",
+    "count": 1
+  }
+}
